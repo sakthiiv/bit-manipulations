@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 2012 for Windows Desktop
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitManipulations", "bit-manipulations\BitManipulations.csproj", "{CC6268E4-2482-4889-9B6C-CD192D783155}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitManipulations", "BitManipulations\BitManipulations.csproj", "{CC6268E4-2482-4889-9B6C-CD192D783155}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
